@@ -7,7 +7,7 @@ import { Contacto } from "./rutas/Contacto"
 import Becas  from "./rutas/Becas"
 import InformacionCarrera  from "./rutas/Carreras/InformacionCarreras/InformacionCarreras"
 
-
+//comentario x
 export const App2 = () => {
     return (
         <>
