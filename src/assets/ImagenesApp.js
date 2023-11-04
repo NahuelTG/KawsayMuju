@@ -92,7 +92,7 @@ import UPBbecas from './img/UPBbecas.jpg'
 import UCBbecas from './img/UCBbecas.png'
 import PatinioBecas from './img/patinioBeca.png'
 import UnitepcBeca from './img/UnitepcBeca.png'
-import EmiBeca from './img/EmiBeca.jpg'
+import EmiBeca from './img/emiBeca.jpg'
 
 
 
